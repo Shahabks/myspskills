@@ -23,18 +23,33 @@ You need to install Python 3 and the following libraries:
 2- scipy
 
 3- sklearn
+
   3-1 sklearn.learn.metrics 
+  
   3-2 sklearn.linear_model
-  3-3 skearn.tree 
+  
+  3-3 skearn.tree
+  
   3-4 sklearn.neighbors 
-  3-5 sklearn.discriminant_analysis 
+  
+  3-5 sklearn.discriminant_analysis
+  
   3-6 sklearn.naive_bayes
+  
   3-7 sklearn.svm import SVC
-  3-8 sklearn.feature_selection 
+  
+  3-8 sklearn.feature_selection
+  
   3-9 sklearn.decomposition
+  
   3-10 sklearn.ensemble
+  
   3-11 sklearn.datasets.samples_generator 
+  
 4- importlib
+
 5- numpy
+
 6- pickle
+
 7- matplotlib.pyplot 
