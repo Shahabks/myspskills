@@ -53,3 +53,7 @@ You need to install Python 3 and the following libraries:
 6- pickle
 
 7- matplotlib.pyplot 
+
+                                                                    NOTE
+                                                                    
+During the execution of the package, different figures pop out that you may save them for further analysis. To continue, please close the figure.  
