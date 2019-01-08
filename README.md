@@ -11,12 +11,17 @@ For input data set in our model, we had 697 samples, audio files recorded from n
                                                     How to use the package
                                                     ----------------------
 Please download the folder called "database". The file includes the acoustic and linguistic data. Three files of four include data from a trainee. You will need to develop those files for your trainees.
+
                                                 ---------------------------------------
                                     please contact me at sabahi.s@mysol-gc.jp if you need me to help out               
                                                 ---------------------------------------
-You need to install Python 3 and the following libraries:  
+                                                
+You need to install Python 3 and the following libraries: 
+
 1- pandas
+
 2- scipy
+
 3- sklearn
   3-1 sklearn.learn.metrics 
   3-2 sklearn.linear_model
