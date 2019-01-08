@@ -10,7 +10,8 @@ For input data set in our model, we had 697 samples, audio files recorded from n
                                                     ----------------------
                                                     How to use the package
                                                     ----------------------
-Please download the folder called "database". The file includes the acoustic and linguistic data. Three files of four include data from a trainee. You will need to develop those files for your trainees.
+Please download the folder called "database". The file includes the acoustic and linguistic data. Three files of four include data from a trainee. You will need to develop those files for your trainees if you wish to assess/predict their spoken language proficiency. You need to save "languagemodelingml.py" on your local computer; wherever you wish. 
+Open the file "languagemodelingml.py" in Python shell or Windows terminal and run the program. 
 
                                                 ---------------------------------------
                                     please contact me at sabahi.s@mysol-gc.jp if you need me to help out               
