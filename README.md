@@ -92,7 +92,7 @@ During the execution of the package, different figures pop out that you may save
 If you need help to create the acoustic features of your trainees to predict their spoken language proficiency, please contsct me at:
 
                                                 ---------------------------------------
-                                              abahi.s@mysol-gc.jp if you need me to help out               
+                                                             sabahi.s@mysol-gc.jp .               
                                                 ---------------------------------------
                                           
 you need another algorithm to run and build the acoustic and language features dataset of your trainees. 
