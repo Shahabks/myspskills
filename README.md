@@ -8,7 +8,7 @@ In training the linguistic proficiency classifier, we used Logistic Regression (
 For input data set in our model, we had 697 samples, audio files recorded from non-native speakers. Our classifier showed an accuracy around 70 % in predicting spoken language proficiency level. Among the models, Gaussian Naive Bayes and Linear Discriminant Analysis models produced the best predictive power.
 
                                                     ----------------------
-                                                    How to use the package
+                                                     How to use the package
                                                     ----------------------
 Method-1:
 
@@ -32,6 +32,8 @@ Among the extracted files, please double click on the file called,
 Windows command line pops up and ask you for the path to the "database". Please enter the path and hit the enter.
 
 During the execution of the package, different figures pop out that you may save them for further analysis. To continue, please close the figure.  
+
+___________________
 
 Method-2 
 
