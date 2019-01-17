@@ -101,3 +101,7 @@ If you need help to create the acoustic features of your trainees to predict the
                                                 ---------------------------------------
                                           
 you need another algorithm to run and build the acoustic and language features dataset of your trainees. 
+
+                                                               Development 
+                                                               
+My-Voice-Analysis was developed by MYOLUTIONS Lab in Japan. It is part of New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions.                                                               
