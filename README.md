@@ -1,7 +1,7 @@
-### This is a stand-alone executable package
-
 # myspskills
 to predict spoken languages proficiency level - a Machine Learning algorithm 
+
+### This is a stand-alone executable package
 
 This python package proposes a comprehensive method for predicting second language proficiency based on; an acoustic model, a language model, and linguistic cognitive ability in a high-entropy free speech. Our method is based on an idea introduced by Kroll, J. F., Michael, E., Tokowicz, N., & Dufour, R. "The development of lexical fluency in a second language" (Juornal of Second Language Research 2002). Our proposed method for predicting second language proficiency uses as input learner’s acoustic features and linguistic cognition aptitude data. The method produced promising results with the predictive power as high as 70 %. Acoustic features and linguistic cognitive ability are measured through speaking tasks, which include: reading-loud tasks, introducing what being seen task, listening and summarizing tasks, and free speech tasks. Each type of the tasks is related to a different linguistic function in the brain and delivers in the spoken mode. After measuring the learner’s acoustic features and linguistic factors, the result is fed as input for a machine learning model, which makes predictions for the corresponding language proficiency level. 
 
