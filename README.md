@@ -28,7 +28,7 @@ The file includes the acoustic and linguistic data. Three files of four include 
 
 Among the extracted files, please double click on the file called,
 
-                                              anguagemodelingml.exe.
+                                              languagemodelingml.exe.
 
 Windows command line pops up and ask you for the path to the "database". Please enter the path and hit the enter.
 
